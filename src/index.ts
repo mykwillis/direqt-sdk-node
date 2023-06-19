@@ -1,4 +1,3 @@
-// Myk is the best!!!
 import axios from 'axios';
 import {
     AgentContentMessage,
